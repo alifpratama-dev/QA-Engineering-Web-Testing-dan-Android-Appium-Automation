@@ -1,0 +1,8 @@
+2026-08-28 10:14:02 INFO  session started: emulator-5554 / Android 15
+2026-08-28 10:14:04 INFO  step 1: product selected using XPath text fallback
+2026-08-28 10:14:09 INFO  step 2: add-to-cart action completed
+2026-08-28 10:14:11 INFO  step 3: locating cart navigation using content-desc=Cart
+2026-08-28 10:14:21 ERROR timeout: cart navigation was not located within 10 seconds
+2026-08-28 10:14:21 INFO  current activity: .view.activities.MainActivity
+2026-08-28 10:14:21 INFO  screenshot: not captured
+2026-08-28 10:14:21 INFO  appium server status: healthy
